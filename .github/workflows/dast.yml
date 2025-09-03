@@ -7,7 +7,7 @@ on:
 
 jobs:
   dast:
-    name: OWASP ZAP BASELINE SCAN
+    name: OWASP ZAP BASELINE SCAN 
     runs-on: ubuntu-latest
 
     steps:
